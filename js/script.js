@@ -8,4 +8,8 @@ let i = 0;
 while (i < list.length) {
     i++;
     console.log(list[i - 1])
+
+    let li = document.createElement('li').innerHTML.toUpperCase;
+
+
 }
